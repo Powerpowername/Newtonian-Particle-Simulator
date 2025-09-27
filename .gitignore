@@ -2,11 +2,6 @@
 build/
 *.o
 *.out
-*.so
-*.dylib
-*.exe
-*.dll
-*.lib
-*.a
+
 
 
